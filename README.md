@@ -13,7 +13,7 @@ increase model diversity in the ensemble and hence would lead to reduction in ov
 Threshold on the basis of class activation to find the example that performed poorly.
 
 # Bas_exp 5
-it is just and extension of Bas_exp 3. 
+it is just and extension of Bas_exp 2. 
 
 # Dataset.py
 Contains our Data sets and loads them into other experiments.
