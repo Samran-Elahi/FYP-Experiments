@@ -6,7 +6,7 @@ we wanted to create a way to increase model diversity between neural nets in an 
 we hoped that it would lead to reduction in overfitting and cause a regularizing effect. We developed multiple apporaches and this 
 repo contains all the appoarches we tried.
 
-# Bas_exp 3
+# Bas_exp 2
 We wanted to find those features that perform poorly on model1 so that we may train them another model. 
 We thought by separating the data that performs poorly on model1 and training it on another model would 
 increase model diversity in the ensemble and hence would lead to reduction in overfitting. we developed a 
