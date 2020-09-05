@@ -22,7 +22,7 @@ Contains our Data sets and loads them into other experiments.
 We developed a regularizer and incoperated it into the loss function to create model diversity but it did not reduce overfitting.
 
 # With Regualarizer
-so thses notebook contains our final experiment where we constructed a regualarizer and incoperated it into the loss function. 
+so these notebook contains our final experiment where we constructed a regualarizer and incoperated it into the loss function. 
 We were successful in achiveing model diversity however accuracy remained unchanged.
 
 # FYP_Report 
