@@ -26,7 +26,7 @@ so these notebook contains our final experiment where we constructed a regualari
 We were successful in achiveing model diversity however accuracy remained unchanged.
 
 # FYP_Report 
-This is the formal report we presented to the FYP committe. It contains all the detailed explanation about each experiment and apporach we took in our FYP. We also prepared an online presentation which can be viewed on the following link :
+This is the formal report we presented to the FYP committee. It contains all the detailed explanation about each experiment and apporach we took in our FYP. We also prepared an online presentation which can be viewed on the following link :
 https://drive.google.com/file/d/12K5HZcNJCCCfifi4RmAEYhDzw7G5wtS3/view?usp=sharing
 
 
